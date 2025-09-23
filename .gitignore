@@ -1,4 +1,10 @@
 COVID19 COLOMBIA - Complete Dataset DEC-2023.csv
+<<<<<<< HEAD
 *.csv
 venv-data-2/
 
+=======
+dataset_limpio.csv
+/venv-data-2/
+/Proyecto/*.csv
+>>>>>>> Salomon
