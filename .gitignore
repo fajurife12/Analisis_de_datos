@@ -2,3 +2,6 @@
 *.csv
 COVID19 COLOMBIA - Complete Dataset DEC-2023.csv
 .idea
+*.bz2
+test.ft.txt.bz2
+train.ft.txt.bz2
