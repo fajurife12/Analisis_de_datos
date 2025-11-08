@@ -121,7 +121,9 @@ Segmentación de clientes en grupos homogéneos que faciliten estrategias de mar
 4. Ejecutar cada celda siguiendo el flujo de análisis descrito.
 
 ## Resultados Globales
-
 - Se implementó un flujo completo de preprocesamiento, modelado y visualización.  
 - En el caso de Amazon Reviews, el modelo logró distinguir correctamente las reseñas con alta precisión.  
 - En el caso de Mall Customers, se identificaron grupos claramente diferenciados según su comportamiento de gasto.
+
+# Link Exposición
+- https://correoitmedu-my.sharepoint.com/:v:/g/personal/salomonbedoya301441_correo_itm_edu_co/Eb_YUQZ6-TJDowHLrpjFofUB4qu8VWrygIS3cJ4HMuxc2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Hv2JNc
