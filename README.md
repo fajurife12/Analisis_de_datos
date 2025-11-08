@@ -108,7 +108,7 @@ Segmentación de clientes en grupos homogéneos que faciliten estrategias de mar
 ## Ejecución
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/usuario/proyecto-ml.git
+   git clone https://github.com/fajurife12/Analisis_de_datos.git
    ```
 2. Instalar dependencias:
    ```bash
