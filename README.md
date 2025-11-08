@@ -29,17 +29,17 @@ https://drive.google.com/file/d/1HwkkhHc6MA-NMBu-9Fp-71YygDNk-U1V/view?usp=shari
 
 # EDA
 Construcción de hipotesis inciales
-## “La edad influye significativamente en la probabilidad de fallecimiento por COVID-19”
+## La edad influye significativamente en la probabilidad de fallecimiento por COVID-19
 Justificación: Es conocido que los adultos mayores tienen mayor riesgo.
-## “Existe una relación entre el departamento de residencia y la tasa de letalidad”
+## Existe una relación entre el departamento de residencia y la tasa de letalidad
 Justificación: Diferentes regiones pueden tener distintos niveles de acceso a salud, lo que afecta la supervivencia.
-## “El tiempo entre la fecha de inicio de síntomas y la fecha de diagnóstico influye en la probabilidad de recuperación”
+## El tiempo entre la fecha de inicio de síntomas y la fecha de diagnóstico influye en la probabilidad de recuperación
 Justificación: Un diagnóstico temprano podría asociarse a mejores resultados clínicos.
-## “El sexo biológico está relacionado con diferencias en la tasa de recuperación”
+## El sexo biológico está relacionado con diferencias en la tasa de recuperación
 Justificación: Estudios previos sugieren diferencias en la respuesta inmunológica por sexo.
-## “La pertenencia étnica muestra disparidades en el acceso a diagnóstico temprano”
+## La pertenencia étnica muestra disparidades en el acceso a diagnóstico temprano
 Justificación: Grupos étnicos minoritarios podrían tener menores tasas de fecha de diagnóstico registrada.
-## “La estacionalidad (mes del año) afecta la cantidad de casos reportados”
+## La estacionalidad (mes del año) afecta la cantidad de casos reportados
 Justificación: Los picos de contagio suelen relacionarse con épocas de mayor movilidad o condiciones climáticas.
 
 # Insights principales
@@ -93,7 +93,7 @@ Un modelo de análisis de sentimientos capaz de identificar la polaridad de nuev
   - **DBSCAN**
   - **Jerárquico**
 - Visualización de resultados para comparar los grupos formados.
-**Resultado esperado:**  
+**Resultado esperado:** 
 Segmentación de clientes en grupos homogéneos que faciliten estrategias de marketing dirigidas y personalización de servicios.
 
 ## Tecnologías Utilizadas
